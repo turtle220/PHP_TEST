@@ -10,7 +10,7 @@ class createcontroller extends Controller
     public function home(){
 
     	$articles = article::all();
-    	return view('home', ['articles' => $articles]);
+    	return view('test', ['articles' => $articles]);
     }
 
     public function add(Request $request){
