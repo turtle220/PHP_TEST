@@ -26,9 +26,12 @@
   <div style="width:100%">
     <div style="padding-left:10%; padding-right:10%; padding-top:2%;">
       <div style="display: flex"> 
-        <a href=""><button style="background: white; border: 0; color:black; width: 103%; cursor: pointer"> Home </button></a>
-        <a href=""><button style="background: white; border: 0; color:black; padding-left:3%; width: 103%; cursor: pointer"> Search Results </button></a>
-        <a href=""><button style="background: white; border: 0; color:black; padding-left:3%; width: 103%; cursor: pointer"> WareHouse Forklifts </button></a>
+        <img src="{{ url('images/1.jpg') }}" style="border-radius: 7px; width: 28.4%;" alt="">
+        <span style="width: 6%"></span>
+        <div style="width:70%">
+          <h1>Businesses For Sale In Brazil</h1>
+          <p style="font-size: 1.4em;color:#000000">The largest country in South America, Brazil has developed into one of the world's leading economies over the past two decades. A severe recession in 2015-16, combined with a series of private industry corruption scandals, led to sweeping government reform that has reduced barriers to foreign investment and opened the playing field for companies that wish to do business here. The top exports are soybeans, automobiles, crude petroleum, raw sugar, and iron ore.</p>
+        </div>
       </div>
     </div>
   </div>

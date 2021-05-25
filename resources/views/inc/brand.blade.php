@@ -1,6 +1,6 @@
 <div style="padding-left:6%">
   <h3>BRAND</h3>
-  <input type="checkbox" class="check_brand" id="c1" />
+  <input type="checkbox" class="check_brand" id="c1" style="background-color:#ffdb6ffc !important"/>
     <label for="c1">Tayots</label>
   <br />
   <input type="checkbox" class="check_brand" id="c2" />

@@ -179,6 +179,7 @@ table.table .avatar {
   transform: inherit;
   z-index: 3;
   transform: rotateZ(45deg);
+	background: #ffdb6ffc;
 }
 .custom-checkbox input[type='checkbox']:checked + label:before {
   border-color: #03a9f4;
@@ -325,11 +326,12 @@ li a.active {
   text-align: center;
   cursor: pointer;
   transition: background 0.3s ease;
-  width: 80%;
+  width: 100%;
 }
 
 .dropdown-menu span:hover {
   background: #eee;
+	width: 100%;
 }
 
 #openDropdown:checked + .dropdown-menu {
