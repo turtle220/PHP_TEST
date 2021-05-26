@@ -21,7 +21,7 @@ $(document).ready(function () {
     }
   })
 })
-
+//Dropdown Menu for all countries
 const $drowdownArrow = document.querySelector('.fa-angle-down')
 const $checkbox = document.getElementById('openDropdown')
 const $dropdownMenu = document.querySelector('.dropdown-menu')
@@ -38,6 +38,7 @@ $dropdownMenu.addEventListener('click', (e) => {
   $checkbox.dispatchEvent(new Event('change'))
 })
 
+//Reset Filter
 function checkAll(o) {
   var boxes = document.getElementsByTagName('input')
   for (var x = 0; x < boxes.length; x++) {
@@ -60,8 +61,6 @@ function collision($div1, $div2) {
   return true
 }
 
-// // slider call
-
 $('#slider').slider({
   range: true,
   min: 0,
@@ -73,8 +72,6 @@ $('#slider').slider({
     $('.price-range-both').html(
       '<i>$' + ui.values[0] + ' - </i>$' + ui.values[1]
     )
-
-    //
 
     if (ui.values[0] == ui.values[1]) {
       $('.price-range-both i').css('display', 'none')
