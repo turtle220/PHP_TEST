@@ -1,7 +1,7 @@
-# Laravel Crud App
+# Laravel landing page for the ecommerce site
 
-A simple crud App with Laravel 5.5.
-
+Laravel version 5.5
+https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.mp4
 ## Installation
 
 Clone the repository-
