@@ -3,7 +3,7 @@ Laravel version 5.5
 ![](https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.gif)
 <p align="center">
 
-  <img src="https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.gif">
+  <img src="./public/images/PHP_TEST.gif">
 </p>
 
 ## Installation
