@@ -1,11 +1,11 @@
 # Laravel landing page for the ecommerce site
-
 Laravel version 5.5
+![Final App](https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.gif)
 <p align="center">
 
   <img src="https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.gif">
 </p>
-![](https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.gif)
+
 ## Installation
 
 Clone the repository-
