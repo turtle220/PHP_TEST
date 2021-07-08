@@ -46,7 +46,7 @@ Then go to `http://localhost:8000` from your browser and see the app.
 
 ## Screenshot
 
-![](https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.gif?1)
+![](https://github.com/turtle220/PHP_TEST/tree/master/public/images/PHP_TEST.gif)
 
 ## Credits
 
